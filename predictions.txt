@@ -1,0 +1,38 @@
+class: [961] 'n07860988 dough' with 40.38% confidence
+pi@raspberrypi:~/ESAP9/squeeze$ python3 deeplearning.py car.jpeg
+/usr/lib/python3.5/importlib/_bootstrap.py:222: RuntimeWarning: compiletime version 3.4 of module 'tensorflow.python.framework.fast_tensor_util' does not match runtime version 3.5
+  return f(*args, **kwds)
+/usr/lib/python3.5/importlib/_bootstrap.py:222: RuntimeWarning: builtins.type size changed, may indicate binary incompatibility. Expected 432, got 412
+  return f(*args, **kwds)
+Converted network data(<class 'numpy.float32'>): 0.009328s
+Network instance created: 1.414569s
+
+class: [817] 'n04285008 sports car, sport car' with 41.06% confidence
+pi@raspberrypi:~/ESAP9/squeeze$ python3 deeplearning.py peach.jpeg
+/usr/lib/python3.5/importlib/_bootstrap.py:222: RuntimeWarning: compiletime version 3.4 of module 'tensorflow.python.framework.fast_tensor_util' does not match runtime version 3.5
+  return f(*args, **kwds)
+/usr/lib/python3.5/importlib/_bootstrap.py:222: RuntimeWarning: builtins.type size changed, may indicate binary incompatibility. Expected 432, got 412
+  return f(*args, **kwds)
+Converted network data(<class 'numpy.float32'>): 0.008981s
+Network instance created: 1.368994s
+
+class: [950] 'n07747607 orange' with 48.19% confidence
+pi@raspberrypi:~/ESAP9/squeeze$ python3 deeplearning.py flower.jpeg
+/usr/lib/python3.5/importlib/_bootstrap.py:222: RuntimeWarning: compiletime version 3.4 of module 'tensorflow.python.framework.fast_tensor_util' does not match runtime version 3.5
+  return f(*args, **kwds)
+/usr/lib/python3.5/importlib/_bootstrap.py:222: RuntimeWarning: builtins.type size changed, may indicate binary incompatibility. Expected 432, got 412
+  return f(*args, **kwds)
+Converted network data(<class 'numpy.float32'>): 0.009013s
+Network instance created: 1.848845s
+
+class: [885] 'n04525038 velvet' with 15.48% confidence
+pi@raspberrypi:~/ESAP9/squeeze$ python3 deeplearning.py phone.jpeg
+/usr/lib/python3.5/importlib/_bootstrap.py:222: RuntimeWarning: compiletime version 3.4 of module 'tensorflow.python.framework.fast_tensor_util' does not match runtime version 3.5
+  return f(*args, **kwds)
+/usr/lib/python3.5/importlib/_bootstrap.py:222: RuntimeWarning: builtins.type size changed, may indicate binary incompatibility. Expected 432, got 412
+  return f(*args, **kwds)
+Converted network data(<class 'numpy.float32'>): 0.009075s
+Network instance created: 1.373349s
+
+class: [590] 'n03485407 hand-held computer, hand-held microcomputer' with 57.89% confidence
+
